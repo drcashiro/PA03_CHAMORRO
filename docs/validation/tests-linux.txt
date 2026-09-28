@@ -1,0 +1,166 @@
+Internal ctest changing into directory: /home/user/PA3/build
+UpdateCTestConfiguration  from :/home/user/PA3/build/DartConfiguration.tcl
+Parse Config file:/home/user/PA3/build/DartConfiguration.tcl
+UpdateCTestConfiguration  from :/home/user/PA3/build/DartConfiguration.tcl
+Parse Config file:/home/user/PA3/build/DartConfiguration.tcl
+Test project /home/user/PA3/build
+Constructing a list of tests
+Done constructing a list of tests
+Updating test list for fixtures
+Added 0 tests to meet fixture requirements
+Checking test dependency graph...
+Checking test dependency graph end
+test 1
+    Start 1: scene_0
+
+1: Test command: /home/user/PA3/build/PA3Scene "--frames" "3" "--case" "0"
+1: Working Directory: /home/user/PA3/build
+1: Test timeout computed to be: 1500
+1: error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+1: Debug callback enabled
+1: OpenGL: 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1
+1: Renderer: llvmpipe (LLVM 19.1.7, 256 bits)
+1: Depth bits: 24
+1: Experiment 0: PA3 | tex 1 | spec 1 | dir 1 | point 1 (-3,4,3) | sphere exponent 96 | anim 1
+1: Arrows: orbit | W/S: zoom | A/D Q/E I/K: move point light
+1: T: texture | B: specular | P/L: lights | Space: pause | R: reset
+1: 0..5: experiments | [/]: sphere shininess | Esc: quit
+1/6 Test #1: scene_0 ..........................   Passed    0.15 sec
+test 2
+    Start 2: scene_1
+
+2: Test command: /home/user/PA3/build/PA3Scene "--frames" "3" "--case" "1"
+2: Working Directory: /home/user/PA3/build
+2: Test timeout computed to be: 1500
+2: error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+2: Debug callback enabled
+2: OpenGL: 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1
+2: Renderer: llvmpipe (LLVM 19.1.7, 256 bits)
+2: Depth bits: 24
+2: Experiment 1: PA3 | tex 1 | spec 1 | dir 1 | point 1 (4,2,-3) | sphere exponent 96 | anim 1
+2: Arrows: orbit | W/S: zoom | A/D Q/E I/K: move point light
+2: T: texture | B: specular | P/L: lights | Space: pause | R: reset
+2: 0..5: experiments | [/]: sphere shininess | Esc: quit
+2/6 Test #2: scene_1 ..........................   Passed    0.18 sec
+test 3
+    Start 3: scene_2
+
+3: Test command: /home/user/PA3/build/PA3Scene "--frames" "3" "--case" "2"
+3: Working Directory: /home/user/PA3/build
+3: Test timeout computed to be: 1500
+3: error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+3: Debug callback enabled
+3: OpenGL: 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1
+3: Renderer: llvmpipe (LLVM 19.1.7, 256 bits)
+3: Depth bits: 24
+3: Experiment 2: PA3 | tex 1 | spec 1 | dir 1 | point 1 (-3,4,3) | sphere exponent 96 | anim 1
+3: Arrows: orbit | W/S: zoom | A/D Q/E I/K: move point light
+3: T: texture | B: specular | P/L: lights | Space: pause | R: reset
+3: 0..5: experiments | [/]: sphere shininess | Esc: quit
+3/6 Test #3: scene_2 ..........................   Passed    0.17 sec
+test 4
+    Start 4: scene_3
+
+4: Test command: /home/user/PA3/build/PA3Scene "--frames" "3" "--case" "3"
+4: Working Directory: /home/user/PA3/build
+4: Test timeout computed to be: 1500
+4: error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+4: Debug callback enabled
+4: OpenGL: 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1
+4: Renderer: llvmpipe (LLVM 19.1.7, 256 bits)
+4: Depth bits: 24
+4: Experiment 3: PA3 | tex 1 | spec 1 | dir 1 | point 1 (-3,4,3) | sphere exponent 8 | anim 1
+4: Arrows: orbit | W/S: zoom | A/D Q/E I/K: move point light
+4: T: texture | B: specular | P/L: lights | Space: pause | R: reset
+4: 0..5: experiments | [/]: sphere shininess | Esc: quit
+4/6 Test #4: scene_3 ..........................   Passed    0.16 sec
+test 5
+    Start 5: scene_4
+
+5: Test command: /home/user/PA3/build/PA3Scene "--frames" "3" "--case" "4"
+5: Working Directory: /home/user/PA3/build
+5: Test timeout computed to be: 1500
+5: error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+5: Debug callback enabled
+5: OpenGL: 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1
+5: Renderer: llvmpipe (LLVM 19.1.7, 256 bits)
+5: Depth bits: 24
+5: Experiment 4: PA3 | tex 0 | spec 1 | dir 1 | point 1 (-3,4,3) | sphere exponent 96 | anim 1
+5: Arrows: orbit | W/S: zoom | A/D Q/E I/K: move point light
+5: T: texture | B: specular | P/L: lights | Space: pause | R: reset
+5: 0..5: experiments | [/]: sphere shininess | Esc: quit
+5/6 Test #5: scene_4 ..........................   Passed    0.17 sec
+test 6
+    Start 6: scene_5
+
+6: Test command: /home/user/PA3/build/PA3Scene "--frames" "3" "--case" "5"
+6: Working Directory: /home/user/PA3/build
+6: Test timeout computed to be: 1500
+6: error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+6: Debug callback enabled
+6: OpenGL: 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1
+6: Renderer: llvmpipe (LLVM 19.1.7, 256 bits)
+6: Depth bits: 24
+6: Experiment 5: PA3 | tex 1 | spec 1 | dir 1 | point 1 (-3,4,3) | sphere exponent 96 | anim 1
+6: Arrows: orbit | W/S: zoom | A/D Q/E I/K: move point light
+6: T: texture | B: specular | P/L: lights | Space: pause | R: reset
+6: 0..5: experiments | [/]: sphere shininess | Esc: quit
+6/6 Test #6: scene_5 ..........................   Passed    0.21 sec
+
+100% tests passed, 0 tests failed out of 6
+
+Total Test time (real) =   1.04 sec
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+Debug callback enabled
+OpenGL: 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1
+Renderer: llvmpipe (LLVM 19.1.7, 256 bits)
+Depth bits: 24
+Experiment 0: PA3 | tex 1 | spec 1 | dir 1 | point 1 (-3,4,3) | sphere exponent 96 | anim 1
+Arrows: orbit | W/S: zoom | A/D Q/E I/K: move point light
+T: texture | B: specular | P/L: lights | Space: pause | R: reset
+0..5: experiments | [/]: sphere shininess | Esc: quit
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+Debug callback enabled
+OpenGL: 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1
+Renderer: llvmpipe (LLVM 19.1.7, 256 bits)
+Depth bits: 24
+Experiment 1: PA3 | tex 1 | spec 1 | dir 1 | point 1 (4,2,-3) | sphere exponent 96 | anim 1
+Arrows: orbit | W/S: zoom | A/D Q/E I/K: move point light
+T: texture | B: specular | P/L: lights | Space: pause | R: reset
+0..5: experiments | [/]: sphere shininess | Esc: quit
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+Debug callback enabled
+OpenGL: 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1
+Renderer: llvmpipe (LLVM 19.1.7, 256 bits)
+Depth bits: 24
+Experiment 2: PA3 | tex 1 | spec 1 | dir 1 | point 1 (-3,4,3) | sphere exponent 96 | anim 1
+Arrows: orbit | W/S: zoom | A/D Q/E I/K: move point light
+T: texture | B: specular | P/L: lights | Space: pause | R: reset
+0..5: experiments | [/]: sphere shininess | Esc: quit
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+Debug callback enabled
+OpenGL: 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1
+Renderer: llvmpipe (LLVM 19.1.7, 256 bits)
+Depth bits: 24
+Experiment 3: PA3 | tex 1 | spec 1 | dir 1 | point 1 (-3,4,3) | sphere exponent 8 | anim 1
+Arrows: orbit | W/S: zoom | A/D Q/E I/K: move point light
+T: texture | B: specular | P/L: lights | Space: pause | R: reset
+0..5: experiments | [/]: sphere shininess | Esc: quit
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+Debug callback enabled
+OpenGL: 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1
+Renderer: llvmpipe (LLVM 19.1.7, 256 bits)
+Depth bits: 24
+Experiment 4: PA3 | tex 0 | spec 1 | dir 1 | point 1 (-3,4,3) | sphere exponent 96 | anim 1
+Arrows: orbit | W/S: zoom | A/D Q/E I/K: move point light
+T: texture | B: specular | P/L: lights | Space: pause | R: reset
+0..5: experiments | [/]: sphere shininess | Esc: quit
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+Debug callback enabled
+OpenGL: 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1
+Renderer: llvmpipe (LLVM 19.1.7, 256 bits)
+Depth bits: 24
+Experiment 5: PA3 | tex 1 | spec 1 | dir 1 | point 1 (-3,4,3) | sphere exponent 96 | anim 1
+Arrows: orbit | W/S: zoom | A/D Q/E I/K: move point light
+T: texture | B: specular | P/L: lights | Space: pause | R: reset
+0..5: experiments | [/]: sphere shininess | Esc: quit

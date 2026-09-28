@@ -1,0 +1,5 @@
+#pragma once
+namespace pa3::sources {
+inline constexpr const char* vertex = R"GLSL(@VERTEX_SOURCE@)GLSL";
+inline constexpr const char* fragment = R"GLSL(@FRAGMENT_SOURCE@)GLSL";
+}

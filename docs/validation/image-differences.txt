@@ -1,0 +1,5 @@
+Case 1 vs baseline: 219020 changed RGB pixels / 1024000
+Case 2 vs baseline: 18083 changed RGB pixels / 1024000
+Case 3 vs baseline: 16205 changed RGB pixels / 1024000
+Case 4 vs baseline: 166167 changed RGB pixels / 1024000
+Case 5 vs baseline: 404348 changed RGB pixels / 1024000

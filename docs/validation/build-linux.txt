@@ -1,0 +1,12 @@
+[1/1] Cleaning all built files...
+Cleaning... 10 files.
+[1/10] Building CXX object CMakeFiles/PA3Scene.dir/src/Window.cpp.o
+[2/10] Building CXX object CMakeFiles/PA3Scene.dir/src/Mesh.cpp.o
+[3/10] Building CXX object CMakeFiles/PA3Scene.dir/src/Texture.cpp.o
+[4/10] Building CXX object CMakeFiles/PA3Scene.dir/src/Shader.cpp.o
+[5/10] Building CXX object CMakeFiles/PA3Scene.dir/src/main.cpp.o
+[6/10] Building CXX object CMakeFiles/PA3Scene.dir/src/Primitives.cpp.o
+[7/10] Building CXX object CMakeFiles/PA3Scene.dir/src/Camera.cpp.o
+[8/10] Building CXX object CMakeFiles/PA3Scene.dir/src/Renderer.cpp.o
+[9/10] Building CXX object CMakeFiles/PA3Scene.dir/src/Scene.cpp.o
+[10/10] Linking CXX executable PA3Scene

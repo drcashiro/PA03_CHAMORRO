@@ -1,0 +1,9 @@
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+Debug callback enabled
+OpenGL: 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1
+Renderer: llvmpipe (LLVM 19.1.7, 256 bits)
+Depth bits: 24
+Experiment 0: PA3 | tex 1 | spec 1 | dir 1 | point 1 (-3,4,3) | sphere exponent 96 | anim 1
+Arrows: orbit | W/S: zoom | A/D Q/E I/K: move point light
+T: texture | B: specular | P/L: lights | Space: pause | R: reset
+0..5: experiments | [/]: sphere shininess | Esc: quit
